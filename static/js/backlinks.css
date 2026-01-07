@@ -320,3 +320,19 @@ body.dark-mode .dt-button:hover {
 .dt-button:hover {
     background: linear-gradient(135deg, #5a4bff, #4338ca);
 }
+
+/* DA Min–Max range inputs */
+.da-range {
+  width: 70px;              /* Increase width */
+  padding: 6px 8px;
+  font-size: 14px;
+  border-radius: 6px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* Optional: better spacing between Min & Max */
+.da-range + .da-range {
+  margin-left: 6px;
+}
+

@@ -323,7 +323,7 @@ body.dark-mode .dt-button:hover {
 
 /* DA Min–Max range inputs */
 .da-range {
-  width: 70px;              /* Increase width */
+  width: 100px;              /* Increase width */
   padding: 5px 7px;
   font-size: 14px;
   border-radius: 6px;

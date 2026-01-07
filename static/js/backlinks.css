@@ -322,7 +322,7 @@ body.dark-mode .dt-button:hover {
 }
 
 /* DA Min–Max range inputs */
-.da-range {
+.da-range-input {
   width: 100px;              /* Increase width */
   padding: 5px 7px;
   font-size: 14px;
@@ -333,7 +333,7 @@ body.dark-mode .dt-button:hover {
 }
 
 /* Optional: better spacing between Min & Max */
-.da-range + .da-range {
+.da-range-input + .da-range-input{
   margin-left: 6px;
 }
 .da-range-input {

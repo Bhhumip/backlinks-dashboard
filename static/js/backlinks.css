@@ -336,4 +336,13 @@ body.dark-mode .dt-button:hover {
 .da-range + .da-range {
   margin-left: 6px;
 }
+.da-range-input {
+  line-height: 1.4;
+}
+.da-range-input {
+  width: 70px !important;
+  height: 36px !important;
+}
+
+
 
